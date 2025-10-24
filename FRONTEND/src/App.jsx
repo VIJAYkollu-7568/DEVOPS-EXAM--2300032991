@@ -1,16 +1,13 @@
-import VoterApp from "./Voterapp"
-
+import VoterApp from "./VoterApp";
 
 function App() {
-  
-
   return (
     <>
       <div>
-        <VoterApp/>
-        </div>
+        <VoterApp />
+      </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
